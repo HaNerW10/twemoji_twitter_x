@@ -5,5 +5,3 @@ A twitter emoji font which used to continue now. Use zFont Tool to prevent any l
 A emoji font made in FontLab 7, The colors work.
 # version 15.0.1
 Changes pleading face and holding back tears and new shaking face and khanda and donkey and moose and more.
-| Twemoji 15.0.1 | Twemoji 15.0.2 or 15.1 |
-| Initial Release | Not rolled out yet, Twitter/X will most likely to release on 2024 early or 2025. |
