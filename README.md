@@ -6,7 +6,7 @@ A emoji font made in FontLab 7, The colors work.
 # version 15.0.1
 Changes pleading face and holding back tears and new shaking face and khanda and donkey and moose and more.
 ### Twemoji by Twitter, X
-|15.0.1|15.1
+|15.0.1|15.0.2 or 15.1|
 |:---:|:---:|
 | The inital release of this repository. | Not released yet. Will most likely to come out on 2024 early or 2025.
 | Unicode: 15.0 | Unicode: 15.1 |
